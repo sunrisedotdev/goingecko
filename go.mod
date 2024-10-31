@@ -1,4 +1,4 @@
-module github.com/JulianToledano/goingecko
+module github.com/sunrisedotdev/goingecko
 
 go 1.21
 

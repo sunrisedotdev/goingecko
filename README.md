@@ -56,7 +56,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/JulianToledano/goingecko"
+	"github.com/sunrisedotdev/goingecko"
 )
 
 func main() {

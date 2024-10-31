@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/JulianToledano/goingecko/search"
+	"github.com/sunrisedotdev/goingecko/search"
 )
 
 // Search for coins, categories and markets listed on CoinGecko ordered by largest Market Cap first.

@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/JulianToledano/goingecko"
+	"github.com/sunrisedotdev/goingecko"
 )
 
 func TestTrending(t *testing.T) {

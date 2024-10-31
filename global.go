@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/JulianToledano/goingecko/global"
+	"github.com/sunrisedotdev/goingecko/global"
 )
 
 func (c *Client) Global() (*global.Global, error) {

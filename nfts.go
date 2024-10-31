@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/JulianToledano/goingecko/nfts"
+	"github.com/sunrisedotdev/goingecko/nfts"
 )
 
 // NftsList Use this to obtain all the NFT ids in order to make API calls, paginated to 100 items.

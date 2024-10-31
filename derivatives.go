@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/JulianToledano/goingecko/derivatives"
+	"github.com/sunrisedotdev/goingecko/derivatives"
 )
 
 // Derivatives List all derivative tickers.

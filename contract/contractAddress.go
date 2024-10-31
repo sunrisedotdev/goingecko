@@ -1,6 +1,6 @@
 package contract
 
-import "github.com/JulianToledano/goingecko/types"
+import "github.com/sunrisedotdev/goingecko/types"
 
 // TODO: missing a lot of info
 type ContractAddressInfo struct {

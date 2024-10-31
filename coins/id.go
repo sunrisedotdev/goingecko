@@ -1,6 +1,6 @@
 package coins
 
-import "github.com/JulianToledano/goingecko/types"
+import "github.com/sunrisedotdev/goingecko/types"
 
 type CoinID struct {
 	ID                 string   `json:"id"`

@@ -1,6 +1,6 @@
 package global
 
-import "github.com/JulianToledano/goingecko/types"
+import "github.com/sunrisedotdev/goingecko/types"
 
 type Global struct {
 	Data data `json:"data"`

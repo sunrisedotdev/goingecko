@@ -1,8 +1,9 @@
 package test
 
 import (
-	"github.com/JulianToledano/goingecko"
 	"testing"
+
+	"github.com/sunrisedotdev/goingecko"
 )
 
 func TestDerivatives(t *testing.T) {

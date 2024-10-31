@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/JulianToledano/goingecko/exchanges"
+	"github.com/sunrisedotdev/goingecko/exchanges"
 )
 
 // Exchanges List all exchanges

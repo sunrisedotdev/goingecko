@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/JulianToledano/goingecko/companies"
+	"github.com/sunrisedotdev/goingecko/companies"
 )
 
 func (c *Client) PublicTreasuryCoinId(id string) (*companies.Treasury, error) {

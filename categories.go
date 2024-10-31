@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/JulianToledano/goingecko/categories"
+	"github.com/sunrisedotdev/goingecko/categories"
 )
 
 // CategoriesList List all categories

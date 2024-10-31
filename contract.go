@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/JulianToledano/goingecko/contract"
-	"github.com/JulianToledano/goingecko/types"
+	"github.com/sunrisedotdev/goingecko/contract"
+	"github.com/sunrisedotdev/goingecko/types"
 )
 
 func (c *Client) ContractInfo(id, contractAddress string) (*contract.ContractAddressInfo, error) {
